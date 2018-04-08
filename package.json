@@ -1,5 +1,5 @@
 {
-  "name": "codo",
+  "name": "@lluis/codo",
   "description": "A CoffeeScript documentation generator.",
   "keywords": [
     "coffeescript",
